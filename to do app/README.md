@@ -13,4 +13,4 @@ an app for writing your daily activity.
 
 ## How to Use
 1. Clone the repository.
-2. Open `index.html` to start tracking expenses.
+2. Open `index.html` to adding your tasks.
